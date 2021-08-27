@@ -6,6 +6,6 @@
       apt:
         update_cache: true
         cache_valid_time: 600
-    - name: "Include ansible-role-ustreamer"
+    - name: "Include ustreamer-ansible"
       include_role:
-        name: "ansible-role-ustreamer"
+        name: "ustreamer-ansible"
