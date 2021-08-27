@@ -2,7 +2,7 @@
 ustreamer_group: ustreamer
 ustreamer_user: ustreamer
 ustreamer_dir: /opt/ustreamer
-ustreamer_repo: https://github.com/pikvm/ustreamer.git
+ustreamer_repo: https://github.com/adrian-griffin/ustreamer
 ustreamer_repo_version: master
 
 # Network interface to listen for connections.
