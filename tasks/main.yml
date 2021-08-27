@@ -90,7 +90,7 @@
 
 - name: get uStreamer repo
   git:
-    repo: "{{ ustreamer_repo }}"
+    repo: "https://github.com/pikvm
     dest: "{{ ustreamer_dir }}"
     version: "{{ ustreamer_repo_version }}"
   register: ustreamer_repo_result
