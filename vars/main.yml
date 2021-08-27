@@ -1,0 +1,3 @@
+# Path to file with persistent uStreamer settings to apply across role
+# runs.
+ustreamer_settings_file: /home/{{ ustreamer_user }}/config.yml
